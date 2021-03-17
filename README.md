@@ -1,2 +1,6 @@
-# study-group-design-pattern
-The code to introduce the design pattern.
+# Design Pattern
+
+设计模式学习小组代码仓库：
+
+1. 大家每次讲课前，需要创建演示代码在代码仓库里面，供大家下载测试。
+2. 在讲课中，也需要运行演示代码并展示结果。
